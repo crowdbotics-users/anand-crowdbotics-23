@@ -8,3 +8,4 @@ admin_bootstrap
 aa_stripe
 aa_airtable
 adminlettuce
+admin-extra-urls

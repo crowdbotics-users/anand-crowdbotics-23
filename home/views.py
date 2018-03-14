@@ -6,6 +6,7 @@ from django.shortcuts import render
 
 def home(request):
     packages = [
+	{'name':'admin-extra-urls', 'url': 'http://pypi.python.org/pypi/admin-extra-urls/1.7'},
 	{'name':'adminlettuce', 'url': 'http://pypi.python.org/pypi/adminlettuce/0.0.6'},
 	{'name':'aa_airtable', 'url': 'http://pypi.python.org/pypi/aa_airtable/0.2'},
 	{'name':'aa_stripe', 'url': 'http://pypi.python.org/pypi/aa_stripe/0.4.1'},

@@ -7,3 +7,4 @@ whitenoise==3.3.0
 admin_bootstrap
 aa_stripe
 aa_airtable
+adminlettuce
